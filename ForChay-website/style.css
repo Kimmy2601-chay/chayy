@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3efef;
+    padding: 20px;
+}
+
+h2 {
+    color: #3d0216;
+}
+
+p {
+    color: #523b3b;
+}
+
+.image-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
